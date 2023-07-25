@@ -18,7 +18,7 @@ Welcome to my profile! I'm Michael, a frontend developer with a passion for web 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webs95&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prodmichael&hide_border=false)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prodmichael&theme=dark&hide_border=true&border_radius=7.1)](https://git.io/streak-stats)
 
 ## 💻 Tech Stack:
 
