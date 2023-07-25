@@ -1,10 +1,10 @@
 ## 👨‍💻 Bio:
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 Frontend Developer | Web Developing Enthusiast
 
 Welcome to my profile! I'm Michael, a frontend developer with a passion for web development. With a strong focus on HTML, CSS, JavaScript, TypeScript, and Angular, I strive to create captivating and user-friendly web experiences.
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🌐 Socials:
 
