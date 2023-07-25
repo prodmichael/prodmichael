@@ -8,7 +8,7 @@ Welcome to my profile! I'm Michael, a frontend developer with a passion for web 
 
 ## 🌐 Socials:
 
-[![Telegram]](https://t.me/indigo_npm)
+[![Telegram]()](https://t.me/indigo_npm)
 
 ## 📈 Stats:
 
