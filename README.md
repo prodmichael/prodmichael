@@ -12,7 +12,7 @@ Welcome to my profile! I'm Michael, a frontend developer with a passion for web 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prod_by_michael?igshid=OGQ5ZDc2ODk2ZA==)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prodmichael)
 
-## 📈 Stats:
+## 🔥 Stats:
 
 ![](https://komarev.com/ghpvc/?username=prodmichael)
 
