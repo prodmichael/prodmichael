@@ -9,6 +9,7 @@ Welcome to my profile! I'm Michael, a frontend developer with a passion for web 
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/indigo_npm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prodbymichaelbeatz@gmail.com)
 
 ## 📈 Stats:
 
