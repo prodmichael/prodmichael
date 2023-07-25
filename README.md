@@ -10,6 +10,7 @@ Welcome to my profile! I'm Michael, a frontend developer with a passion for web 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/indigo_npm)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prod_by_michael?igshid=OGQ5ZDc2ODk2ZA==)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prodmichael)
 
 ## 📈 Stats:
 
